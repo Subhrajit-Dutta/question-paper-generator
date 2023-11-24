@@ -1,0 +1,170 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "European Cities",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of inheritance in object-oriented programming.",
+    "subject": "Computer Science",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Solve the equation: 2x + 5 = 15.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "What is the main function of the mitochondria?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Describe the role of the steam engine in the Industrial Revolution.",
+    "subject": "History",
+    "topic": "Industrial Revolution",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "What is the significance of the Turing Test in artificial intelligence?",
+    "subject": "Computer Science",
+    "topic": "Artificial Intelligence",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Plant Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "What are the key principles of database normalization?",
+    "subject": "Computer Science",
+    "topic": "Database Management",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the impact of climate change on global ecosystems.",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "subject": "Geography",
+    "topic": "European Cities",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "What is the formula for the area of a rectangle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Who is known as the 'Father of Computer Science'?",
+    "subject": "Computer Science",
+    "topic": "History of Computing",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Explain the concept of global warming and its impact on climate.",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Compare and contrast TCP/IP and OSI network models.",
+    "subject": "Computer Science",
+    "topic": "Networking",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the system of equations: 2x + y = 5, 3x - 2y = 8.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Describe the life cycle of a star.",
+    "subject": "Astronomy",
+    "topic": "Stellar Evolution",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the role of enzymes in biological processes.",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of quantum entanglement.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "Discuss the ethical implications of artificial intelligence.",
+    "subject": "Ethics",
+    "topic": "Artificial Intelligence",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Solve the differential equation: dy/dx = y^2 + x.",
+    "subject": "Mathematics",
+    "topic": "Differential Equations",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Examine the impact of deforestation on biodiversity.",
+    "subject": "Environmental Science",
+    "topic": "Deforestation",
+    "difficulty": "Hard",
+    "marks": 10
+  }
+]
